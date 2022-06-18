@@ -1,0 +1,9 @@
+C:\Users\Vitor Augusto\Documents\Godot\Tutoriais\Pong with C#\.mono\temp\bin\Debug\Pong with C#.dll
+C:\Users\Vitor Augusto\Documents\Godot\Tutoriais\Pong with C#\.mono\temp\bin\Debug\Pong with C#.pdb
+C:\Users\Vitor Augusto\Documents\Godot\Tutoriais\Pong with C#\.mono\temp\obj\Debug\Pong with C#.csproj.AssemblyReference.cache
+C:\Users\Vitor Augusto\Documents\Godot\Tutoriais\Pong with C#\.mono\temp\obj\Debug\Pong with C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Augusto\Documents\Godot\Tutoriais\Pong with C#\.mono\temp\obj\Debug\Pong with C#.AssemblyInfoInputs.cache
+C:\Users\Vitor Augusto\Documents\Godot\Tutoriais\Pong with C#\.mono\temp\obj\Debug\Pong with C#.AssemblyInfo.cs
+C:\Users\Vitor Augusto\Documents\Godot\Tutoriais\Pong with C#\.mono\temp\obj\Debug\Pong with C#.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Augusto\Documents\Godot\Tutoriais\Pong with C#\.mono\temp\obj\Debug\Pong with C#.dll
+C:\Users\Vitor Augusto\Documents\Godot\Tutoriais\Pong with C#\.mono\temp\obj\Debug\Pong with C#.pdb

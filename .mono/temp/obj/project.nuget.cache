@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JQ7lzZ489M7ROSvd1KInaGvdEBq7s6KXeIQslvagzaxxMtBp7sbBLQ0fMx/PzjWwZ5kz5CaPfOBhOJvIoL3QPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vitor Augusto\\Documents\\Godot\\Tutoriais\\Pong with C#\\Pong with C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitor Augusto\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Vitor Augusto\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
