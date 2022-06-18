@@ -1,4 +1,4 @@
-name: Deploy on Github Pages
+name: Manual Deploy for Tests
 
 # Controls when the workflow will run
 on:
