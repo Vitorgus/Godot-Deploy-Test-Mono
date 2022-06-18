@@ -18,7 +18,7 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v2
         with:
-          dotnet-version: 6.12.x
+          dotnet-version: 6.0.x
       
       - uses: vitorgus/setup-godot@dev
         with:
